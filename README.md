@@ -1,1 +1,4 @@
-# blogbox
+```
+npm init svelte@next
+
+```

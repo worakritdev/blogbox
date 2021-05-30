@@ -1,8 +1,8 @@
 {
-  "name": "~TODO~",
+  "name": "blogbog",
   "version": "0.0.1",
   "scripts": {
-    "dev": "svelte-kit dev  --open",
+    "dev": "svelte-kit dev",
     "build": "svelte-kit build",
     "preview": "svelte-kit preview",
     "check": "svelte-check --tsconfig ./tsconfig.json",
